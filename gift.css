@@ -1,0 +1,83 @@
+body{
+ background-image: url(https://i.pinimg.com/originals/06/7f/a8/067fa8cf43595608093c00b4c01a88a6.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+
+
+
+    
+h1{background-color: black;
+    color: white;
+    text-align: center;
+    border: 2px double black ;
+
+    
+}
+
+h2{background-color: black;
+    color: white;
+    text-align: center;
+    border: 2px double black ;
+
+}
+
+.mom{
+    margin-right: 150px;
+    border: black;
+    text-align: right;
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+margin-top: 20px;}
+    
+
+.gmom{
+   margin-right: 20px; margin-bottom: 200px;
+    border: black;text-align: center;font-size: larger;font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+.meandmom{
+    width: 30%;
+    border: 2px solid black;
+    position:absolute;
+    margin-top: 20px; margin-left: 150px;
+}
+
+.satuandmom{width: 30%;
+    border: 2px solid black;
+    position:absolute; margin-left: 150px;}
+
+.ammamma{
+    width: 20%;
+    height: 50%;
+    border: 2px solid black;
+    position: absolute;
+    margin-left: 300px;
+  
+}
+
+.nani{
+    width: 20%;
+    height: 20%;
+     border: 2px solid black;
+     margin-right: 300px;
+    
+}
+
+.footer{
+    font-size: medium; font-family: cursive;
+    margin-bottom: 150px; margin-left: 500px;
+}
+
+
+.satu{
+    border: 5px double black;
+    margin-left: 500px; margin-right: 200px;
+   
+    color: white;
+   
+}
+
